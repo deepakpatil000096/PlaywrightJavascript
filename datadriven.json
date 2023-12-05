@@ -1,0 +1,27 @@
+[
+    {
+    "id":1,
+    "username":"deepakpatil@gmail.com",
+    "password":"Deepak96#",
+    "Cpassword":"Deepak96#"
+    },
+    {
+        "id":2,
+        "username":"Dpatil@gmail.com",
+        "password":"Deepak96#",
+        "Cpassword":"Deepak96#"
+        },
+        {
+            "id":3,
+            "username":"deepak@gmail.com",
+            "password":"Deepak96#",
+            "Cpassword":"Deepak96#"
+            },
+
+            {
+                "id":4,
+                "username":"patil@gmail.com",
+                "password":"Deepak96#",
+                "Cpassword":"Deepak96#"
+                }
+]
